@@ -1,4 +1,4 @@
-# Flappy Bird Clone
+# Doodle Jump
 I followed a YouTube tutorial by Brackeys to create this Doodle Jump clone. I learned a lot about collisions and Rigidbody.
 
 ## What I Learned:
